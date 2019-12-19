@@ -1,1 +1,4 @@
 # Homework-8-Team-Generator
+The functionality this app aims to achieve is that the user, through a series of command line prompts, can freely add any number of employees either classified as a manager, engineer, or intern. After providing each person's specific details such as ID number and email address, an HTML file summarizing the information will be created for you. 
+
+Like other assigments before this, making it work as hoped was not to be as of yet. The code instead contains an attempt to estimate how the program might seemingly be assembled from a macro perpective without satisfying the syntax requirements and other technical details to actually allow it to run. Despite certainly frequent miscalculations and faulty logical foundations, the only optimistic outcome I can identify relates to undergoing generalized practice thinking about what could be needed in terms of the concepts introduced to us thus far. 
